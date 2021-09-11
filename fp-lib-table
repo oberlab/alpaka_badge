@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name alpaka_svg2shenzhen)(type KiCad)(uri "$(KIPRJMOD)/alpaka_svg2shenzhen.pretty")(options "")(descr ""))
+  (lib (name libraries)(type KiCad)(uri ${KIPRJMOD}/libraries)(options "")(descr ""))
+)
